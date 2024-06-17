@@ -106,7 +106,7 @@ This README provides an overview of the automated hyperparameter optimization sy
 - **Breast Cancer Dataset**: A standard dataset from scikit-learn used for binary classification tasks, available [here](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html).
 - **application_train Dataset**: A dataset from a Kaggle competition used for binary classification tasks related to loan default prediction, available [here](https://www.kaggle.com/c/home-credit-default-risk/data).
 
-- ## Further Links
+### Further Links
 - [Automated Model Tuning](https://www.kaggle.com/code/willkoehrsen/automated-model-tuning/notebook)
 - [AutoML](https://www.automl.org/hpo-overview/?cmplz-force-reload=1716301158840)
 - [AutoML Papers](https://github.com/windmaple/awesome-AutoML?tab=readme-ov-file)
