@@ -111,3 +111,5 @@ This README provides an overview of the automated hyperparameter optimization sy
 - [AutoML](https://www.automl.org/hpo-overview/?cmplz-force-reload=1716301158840)
 - [AutoML Papers](https://github.com/windmaple/awesome-AutoML?tab=readme-ov-file)
 
+#### Owner
+- GEET ASATI🧑‍💻🤖, IIT ROORKEE💙
