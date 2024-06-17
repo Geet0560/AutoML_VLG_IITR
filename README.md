@@ -1,5 +1,7 @@
 # Automated Hyperparameter Optimization (HPO) System
 
+##### PLEASE NOTE BEFORE MOVING AHEAD😄: I have streamlined the code by removing basic data-processing steps typically used for understanding the data. This has resulted in shorter and more space-efficient code. My intention was to create clean, compact, and well-structured code to facilitate easier comprehension for anyone reviewing it🙃
+
 ## Problem Statement
 The quality of performance of a Machine Learning model heavily depends on its hyperparameter settings. Given a dataset and a task, the choice of the machine learning (ML) model and its hyperparameters is typically performed manually. This project aims to develop an automated hyperparameter optimization (HPO) system using AutoML techniques that can efficiently identify the best hyperparameter configuration for a given machine learning model and dataset.
 
